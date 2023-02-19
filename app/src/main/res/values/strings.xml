@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bussinessCardUiCompose</string>
+    <string name="name">Harinder Sran</string>
+    <string name="title">Android Developer</string>
+    <string name="link">\@myInsta</string>
+    <string name="number">1234567890</string>
+    <string name="email">hss022002@gmail.com</string>
+</resources>
